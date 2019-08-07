@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AWS</string>
+    <string name="camera">Camera</string>
+
+    <string-array name="camera_options">
+        <item>1280 x 960</item>
+        <item>1280 x 720</item>
+        <item>800 x 600</item>
+        <item>640 x 480</item>
+    </string-array>
+
+</resources>
