@@ -6,6 +6,6 @@ scikit-learn==0.18.1
 Keras==1.2.0
 Flask==0.12.1
 Flask-RESTful==0.3.5
-urllib3==1.13.1
+urllib3==1.24.2
 h5py==2.7.0
 tensorflow-gpu==1.2.0
